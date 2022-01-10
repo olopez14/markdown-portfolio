@@ -1,1 +1,1 @@
-[web] (https://www.google.es)
+[web](https://www.google.es)
