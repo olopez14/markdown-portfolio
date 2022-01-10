@@ -1,1 +1,1 @@
-[Imagen del Yaktocat] (https://www.google.es)
+[web] (https://www.google.es)
